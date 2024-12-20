@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/uc?id=1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf" width="600" height="150">
+<img src="https://drive.google.com/uc?id=1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf" width="700" height="300">
  <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 </p>
 <hr>
