@@ -1,9 +1,8 @@
 <p align="center">
-  [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel Gomez</h1>
-[![-----------------------------------------------------](
 <h3 align="center"> Advanced Technician in Programming</h3>
 
 <!--
