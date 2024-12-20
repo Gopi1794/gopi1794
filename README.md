@@ -1,5 +1,6 @@
 <p align="center">
-# Hey all! <img src= "https://drive.google.com/file/d/1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf/view?usp=drive_link" width= "30" height= "30"> <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
+# Hey all! <img src="https://drive.google.com/uc?id=1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf" width="30" height="30">
+ <img src= "https://media.tenor.com/images/2adfe94e69139f3e22623b61d375a7a7/tenor.gif" width= "30" height= "30">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel Gomez</h1>
