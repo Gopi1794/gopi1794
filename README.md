@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf/view?usp=drive_link" width="700" height="auto">
+<img src="https://drive.google.com/file/d/1lOl0blDoR2HUBX_Uts7OaYKafaMbpbjf" width="700" height="auto">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gabriel Gomez</h1>
